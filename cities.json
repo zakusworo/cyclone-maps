@@ -1,0 +1,128 @@
+[
+ {
+  "path": "indonesia/cities/bandung-city.map",
+  "title": "Bandung",
+  "size": 59626712,
+  "date": 1795429517909,
+  "bbox": [
+   -7.2,
+   107.35,
+   -6.75,
+   107.85
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/bandung-city.map",
+  "sha256": "d68d7af863d08eb5f18a2043ded8b6d2488b60787728d8ce248019647d6ce168"
+ },
+ {
+  "path": "indonesia/cities/jabodetabek-city.map",
+  "title": "Jakarta (Jabodetabek)",
+  "size": 154921914,
+  "date": 1795429477185,
+  "bbox": [
+   -6.75,
+   106.5,
+   -6.05,
+   107.2
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/jabodetabek-city.map",
+  "sha256": "aaebb4dc0c23927d488450fe7988cc3072a7ceaeb951ef13f0ef562f7f4488b8"
+ },
+ {
+  "path": "indonesia/cities/surabaya-city.map",
+  "title": "Surabaya",
+  "size": 43632768,
+  "date": 1795429235148,
+  "bbox": [
+   -7.5,
+   112.5,
+   -7.1,
+   112.9
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/surabaya-city.map",
+  "sha256": "256df77507297291513c9b5808ef978ab21e6af26ae384b0dd5e8c06a5cc528f"
+ },
+ {
+  "path": "indonesia/cities/semarang-city.map",
+  "title": "Semarang",
+  "size": 27664002,
+  "date": 1795429382713,
+  "bbox": [
+   -7.2,
+   110.25,
+   -6.9,
+   110.6
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/semarang-city.map",
+  "sha256": "665ab61a39714f7430359bdd0a34c625e5321a8799a83ba715eba8f000512cf6"
+ },
+ {
+  "path": "indonesia/cities/yogyakarta-city.map",
+  "title": "Yogyakarta",
+  "size": 64635086,
+  "date": 1795429385090,
+  "bbox": [
+   -8.199999,
+   110.0,
+   -7.55,
+   110.85
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/yogyakarta-city.map",
+  "sha256": "c7d871df99d14efdeffb0df0f57654eebf4ee9656fcd789897ed447e85739e47"
+ },
+ {
+  "path": "indonesia/cities/solo-city.map",
+  "title": "Solo",
+  "size": 12710623,
+  "date": 1795429259206,
+  "bbox": [
+   -7.7,
+   110.65,
+   -7.45,
+   110.95
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/solo-city.map",
+  "sha256": "d8138234a09a0cf4ea61b98c33f9a3f2917ee609bf8b22b6d87402e93d7270a7"
+ },
+ {
+  "path": "indonesia/cities/malang-city.map",
+  "title": "Malang",
+  "size": 12673861,
+  "date": 1795429293747,
+  "bbox": [
+   -8.1,
+   112.45,
+   -7.8,
+   112.8
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/malang-city.map",
+  "sha256": "a2d9d693ca76c57f12cedacf4b59ad5c4b9a7ff8689c46ae1731aa5f14a17d46"
+ },
+ {
+  "path": "indonesia/cities/bali-city.map",
+  "title": "Bali (whole island)",
+  "size": 55806447,
+  "date": 1795429312993,
+  "bbox": [
+   -8.9,
+   114.4,
+   -8.05,
+   115.75
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/bali-city.map",
+  "sha256": "6c72d540aa3620713d2efa184081ce8023015786decf7ae5061fc163dee18ce4"
+ },
+ {
+  "path": "indonesia/cities/palembang-city.map",
+  "title": "Palembang",
+  "size": 7662208,
+  "date": 1795429330285,
+  "bbox": [
+   -3.1,
+   104.6,
+   -2.85,
+   104.9
+  ],
+  "url": "https://github.com/zakusworo/cyclone-maps/releases/download/maps-2026-11/palembang-city.map",
+  "sha256": "078abd166925434f3ad59d897ff7a5b229c153fa2c39f7d9be5aa51592862f6e"
+ }
+]
