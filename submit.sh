@@ -6,5 +6,5 @@ as=$(python3 -c "import math;print(round(abs($nelng-$swlng)*111.32*math.cos(math
 curl -sS -m 60 -G https://extract.bbbike.org/ --data-urlencode sw_lng=$swlng --data-urlencode sw_lat=$swlat \
   --data-urlencode ne_lng=$nelng --data-urlencode ne_lat=$nelat --data-urlencode format=mapsforge-osm.zip \
   --data-urlencode city="$name" --data-urlencode email=nobody --data-urlencode as=$as --data-urlencode pg=0 \
-  --data-urlencode lang=en --data-urlencode expire=1795429155 --data-urlencode submit=extract -o "resp-$name.html"
+  --data-urlencode lang=en --data-urlencode expire=$(date +%s) --data-urlencode submit=extract -o "resp-$name.html"
 echo "$name ($as km²): $(sed 's/<[^>]*>//g' "resp-$name.html" | tr -s ' \n' | grep -i -m2 -E 'thank|queue|error|invalid|must|limit|already|download' | tr '\n' ' ')"

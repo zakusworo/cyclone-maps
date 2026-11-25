@@ -1,11 +1,42 @@
-Bandung	107.35	-7.20	107.85	-6.75
-Jabodetabek	106.50	-6.75	107.20	-6.05
-Surabaya	112.50	-7.50	112.90	-7.10
-Semarang	110.25	-7.20	110.60	-6.90
-Yogyakarta	110.00	-8.20	110.85	-7.55
-Solo	110.65	-7.70	110.95	-7.45
-Malang	112.45	-8.10	112.80	-7.80
-Medan	98.55	3.45	98.85	3.75
-Makassar	119.35	-5.30	119.60	-5.00
-Bali	114.40	-8.90	115.75	-8.05
-Palembang	104.60	-3.10	104.90	-2.85
+Bandung	107.35	-7.20	107.85	-6.75	Bandung
+Jabodetabek	106.50	-6.75	107.20	-6.05	Jakarta (Jabodetabek)
+Surabaya	112.50	-7.50	112.90	-7.10	Surabaya
+Semarang	110.25	-7.20	110.60	-6.90	Semarang
+Yogyakarta	110.00	-8.20	110.85	-7.55	Yogyakarta
+Solo	110.65	-7.70	110.95	-7.45	Solo
+Malang	112.45	-8.10	112.80	-7.80	Malang
+Medan	98.55	3.45	98.85	3.75	Medan
+Makassar	119.35	-5.30	119.60	-5.00	Makassar
+Bali	114.40	-8.90	115.75	-8.05	Bali (whole island)
+Palembang	104.60	-3.10	104.90	-2.85	Palembang
+BandarLampung	105.15	-5.55	105.40	-5.30	Bandar Lampung
+Batam	103.85	0.95	104.20	1.20	Batam
+Pekanbaru	101.30	0.40	101.55	0.65	Pekanbaru
+Padang	100.25	-1.05	100.50	-0.80	Padang
+Jambi	103.45	-1.75	103.75	-1.50	Jambi
+Toba	98.50	2.30	99.20	2.95	Lake Toba (Samosir)
+Pontianak	109.20	-0.15	109.45	0.10	Pontianak
+Banjarmasin	114.50	-3.55	114.90	-3.25	Banjarmasin (with Banjarbaru)
+Balikpapan	116.75	-1.35	117.05	-1.05	Balikpapan
+Samarinda	117.05	-0.65	117.30	-0.35	Samarinda
+Manado	124.75	1.35	125.00	1.60	Manado
+Palu	119.75	-1.00	119.95	-0.75	Palu
+Kendari	122.45	-4.05	122.65	-3.90	Kendari
+SerangCilegon	105.90	-6.20	106.25	-5.95	Serang and Cilegon
+Sukabumi	106.80	-7.05	107.05	-6.80	Sukabumi
+Garut	107.80	-7.35	108.05	-7.10	Garut
+Cirebon	108.40	-6.85	108.65	-6.60	Cirebon
+Tasikmalaya	108.10	-7.45	108.35	-7.25	Tasikmalaya
+Purwokerto	109.10	-7.55	109.35	-7.30	Purwokerto
+Tegal	109.05	-6.95	109.25	-6.80	Tegal
+Pekalongan	109.55	-6.95	109.75	-6.80	Pekalongan
+Magelang	110.10	-7.65	110.35	-7.40	Magelang (with Borobudur)
+Salatiga	110.40	-7.42	110.60	-7.25	Salatiga
+Kediri	111.90	-7.95	112.15	-7.70	Kediri
+Jember	113.55	-8.30	113.80	-8.05	Jember
+Banyuwangi	114.25	-8.35	114.45	-8.10	Banyuwangi
+Lombok	115.80	-9.00	116.75	-8.15	Lombok (whole island)
+LabuanBajo	119.80	-8.70	120.10	-8.40	Labuan Bajo
+Kupang	123.50	-10.25	123.70	-10.10	Kupang
+Ambon	128.05	-3.80	128.30	-3.55	Ambon
+Jayapura	140.55	-2.70	140.80	-2.50	Jayapura
